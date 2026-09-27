@@ -1,0 +1,13 @@
+---
+type: content-note
+status: side
+updated: 2026-09-17
+---
+
+# Заметки о видео
+
+20:00 на https://youtu.be/SlqjA04_dpk?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6
+пищит звук в переводе яндекс, очень плохо
+
+https://youtube.com/shorts/wcXIL6INX4w?si=RSin7E6tk8qHPIVX
+https://youtu.be/H15IA_VRb24
