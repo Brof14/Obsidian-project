@@ -1,0 +1,4 @@
+oc_sk_f98a4e52e70c_vaV9WwU2Mi0C6g474j6XHFxb2EvOgfp6
+opencode Zen
+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
+OpenRouter
